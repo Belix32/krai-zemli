@@ -457,6 +457,12 @@ a {
   margin-top: 1rem;
 }
 
+.footer-credit {
+  font-size: 0.8rem;
+  opacity: 0.35;
+  margin-top: 0.5rem;
+}
+
 /* ANIMATIONS */
 @keyframes fadeSlideUp {
   from {
